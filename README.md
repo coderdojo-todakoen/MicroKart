@@ -11,6 +11,7 @@ Web Bluetooth APIに対応したブラウザ(最新のChromeやEdgeなど)を使
 ### micro:bit
 レポジトリのmicrobitフォルダにあるhexファイルを、micro:bitに書き込みます。
 ## 操作方法
-- 「Connect」ボタンをクリックすると、hexファイルを書き込んだmicro:bitを選択するダイアログが表示されます。
-- micro:bitを選択して接続できると、クリックしたボタン側の車をmicro:bitで操作できます。2台のmicro:bitを接続する場合は、それぞれのボタンをクリックしてmicro:bitを選択してください。
+- Web Bluetooth APIに対応したブラウザで、[https://coderdojo-todakoen.github.io/MicroKart/](https://coderdojo-todakoen.github.io/MicroKart/)へアクセスします。
+- 画面下左右の「Connect」ボタンをクリックして、一覧からmicro:bitを選択します。
+- 2台のmicro:bitを接続する場合は、左右それぞれの「Connect」ボタンをクリックしてmicro:bitを選択してください。
 - Aボタンで加速、Bボタンで後退します。左右の傾きで左右にカーブします。
